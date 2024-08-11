@@ -26,7 +26,7 @@ I'm Tovfikur Rahman, a passionate **Full-Stack Developer** and **Software Engine
 
 ## 📊 GitHub Stats
 
-[comment]: ![Tovfikur's GitHub stats](https://github-readme-stats.vercel.app/api?username=tovfikur&show_icons=true&theme=radical)
+![Tovfikur's GitHub stats](https://github-readme-stats.vercel.app/api?username=tovfikur&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovfikur&layout=compact&theme=radical)
 
