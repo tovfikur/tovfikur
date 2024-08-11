@@ -32,7 +32,7 @@ I'm Tovfikur Rahman, a passionate **Full-Stack Developer** and **Software Engine
 
 ## 🚀 Featured Projects
 
-- [MicMine](https://micmine.com/)
+### [MicMine](https://micmine.com/)
 Led a team to develop an advanced e-commerce platform with marketing tool integration and sophisticated tracking systems.
 
 ### [International Top-up System](https://github.com/tovfikur/topup)
