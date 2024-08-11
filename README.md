@@ -24,9 +24,6 @@ I'm Tovfikur Rahman, a passionate **Full-Stack Developer** and **Software Engine
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Rest API](https://img.shields.io/badge/-REST_API-FF6F00?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-![Tovfikur's GitHub stats](https://github-readme-stats.vercel.app/api?username=tovfikur&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovfikur&layout=compact&theme=radical)
 
