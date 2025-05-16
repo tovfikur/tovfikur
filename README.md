@@ -1,6 +1,6 @@
 # Hi, I'm Tovfikur Rahman 👋
 
-![Profile Banner](https://tovfikur.xyz/banner-image.jpg)
+![Profile Banner](https://kendroo.io/img.jpg)
 
 ## About Me
 
