@@ -1,75 +1,94 @@
-# Hi, I'm Tovfikur Rahman 👋
+# 👋 Hello, I'm Tovfikur Rahman
 
-![Profile Banner](https://kendroo.io/img.png)
+## 🚀 Technical Manager | Full-Stack Engineer | AI Innovation Leader
 
-## About Me
+> *"Innovation is the unrelenting drive to break the status quo and develop anew where few have dared to go."*
 
-I'm Tovfikur Rahman, a passionate **Full-Stack Developer** and **Software Engineer** with over 5 years of experience. My expertise lies in creating efficient, scalable, and user-centric IT solutions. I thrive in collaborative environments and love turning complex challenges into innovative solutions.
+### 🎯 Current Role
+**Technical Manager** at [Kendroo Ltd.](https://kendroo.com) | Leading cross-functional engineering teams and driving technical excellence
 
-* 🔭 **Current Focus:** Leading IT teams, developing e-commerce systems, and crafting APIs.
-* 🌱 **Learning:** Exploring advanced cybersecurity and diving deeper into AI integration.
-* 💬 **Ask me about:** Django, RESTful APIs, Full-Stack Development, and Project Management.
-* 📫 **Contact:** [tovfikur@gmail.com](mailto:tovfikur@gmail.com) | [Website](http://tovfikur.xyz)
-
-## Experience
-
-**Kendroo Ltd.**  |  Team Leader (AI)
-*March 2024 – Present*
-
-* Leading a cross-functional AI engineering team to develop and deploy machine learning solutions.
-* Architecting AI-driven features for web and mobile platforms to enhance user personalization and automation.
-* Mentoring junior engineers and conducting code reviews to maintain high-quality standards.
-* Collaborating with product and design teams to translate business requirements into technical specifications.
-
-**Corporate Roles**
-
-### Team Leader (AI) — Kendroo Ltd.
-
-* Spearheaded end-to-end delivery of AI/ML projects, improving model accuracy by 25%.
-* Defined AI roadmap and best practices, establishing CI/CD pipelines for model deployment.
-* Coordinated with stakeholders to align AI initiatives with business goals.
-
-## 🛠 Skills
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Rest API](https://img.shields.io/badge/-REST_API-FF6F00?style=for-the-badge)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovfikur\&layout=compact\&theme=radical)
-
-## 🚀 Featured Projects
-
-### [MicMine](https://micmine.com/)
-
-Led a team to develop an advanced e-commerce platform with marketing tool integration and sophisticated tracking systems.
-
-### [International Top-up System](http://iflex.dsl.com.bd/)
-
-Developed a reliable international top-up system ensuring smooth cross-border transactions. Product of [DNS Software Ltd](https://www.dnsgroup.net/)
-
-### [Bima Insurance System](https://www.instasure.xyz/)
-
-Contributed to the development of an innovative insurance system focusing on accessibility and user-friendliness.
-
-## 🎓 Education
-
-* **Diploma in Engineering (Computer Science)**
-  *Feni Computer Institute, Bangladesh*
-
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tovfikur)
-[![Website](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](http://tovfikur.xyz/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tovfikur)
+### 💼 Professional Summary
+Experienced technical leader with **5+ years** in full-stack development and team management. Specialized in building scalable web applications, AI/ML solutions, and leading high-performing engineering teams. Proven track record of improving system performance and mentoring next-generation developers.
 
 ---
 
-✨ *“Innovation is the unrelenting drive to break the status quo and develop anew where few have dared to go.”*
-— Tovfikur Rahman
+## 🛠️ Technical Expertise
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### **Specializations**
+- 🤖 **AI/ML Solutions** - Model optimization & deployment
+- 🏗️ **System Architecture** - Scalable web applications
+- 👥 **Team Leadership** - Agile development & mentoring
+- 🔌 **API Design** - RESTful services & microservices
+- 📊 **Performance Optimization** - 25% improvement in model accuracy
+
+---
+
+## 🏆 Key Achievements
+
+- 📈 **Improved AI model accuracy by 25%** through optimization strategies
+- 👨‍💼 **Leading technical teams** at Kendroo Ltd. with focus on innovation
+- 🎓 **Mentoring junior engineers** - helping shape the next generation
+- 🚀 **Delivered enterprise-grade projects** in e-commerce and insurance domains
+
+---
+
+## 🌟 Featured Projects
+
+### 🛍️ **MicMine** - E-commerce Platform
+Advanced e-commerce solution with modern architecture and user-centric design
+
+### 🌍 **International Top-up System**
+Cross-border payment processing system handling multiple currencies and providers
+
+### 🛡️ **Bima Insurance System**
+Comprehensive insurance management platform with automated claim processing
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tovfikur&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovfikur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🎓 Education & Background
+**Diploma in Computer Science** | Feni Computer Institute, Bangladesh
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-tovfikur@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tovfikur@gmail.com)
+[![Website](https://img.shields.io/badge/-tovfikur.xyz-000000?style=for-the-badge&logo=safari&logoColor=white)](https://tovfikur.xyz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tovfikur)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tovfikur)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tovfikur&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>Open to collaboration on innovative projects and technical leadership opportunities</i>
+</div>
